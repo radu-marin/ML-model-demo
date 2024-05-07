@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://ec2-3-67-170-43.eu-central-1.compute.amazonaws.com:5000/predict'
+url = 'http://cloudboy.eu:5000/predict'
 data = {
   "state": ["TN"],
   "account_length": [80],
