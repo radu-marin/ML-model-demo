@@ -4,7 +4,7 @@
 - the data set is found in the csv file (`train (1) 1 (1).csv`)
 ## EDA, ML Build & Train
 - All info regarding Exploratory Data Analysis (EDA) can be found in the `EDA.ipynb` Jupyter notebook file
-- this file also holds the code for model fitting, selection, tuning and saves it in the `best_rf_model.pkl` file.
+- this file also holds the code for model fitting, selection, tuning and saves it in the `best_gb_model.pkl` file (remark: another good model is saved in the `best_rf_model.pkl` file - more details can be found in the notebook from the separate feature branch - rf-model)
 
 ## ML model Deployment
 - the model is deployed on an AWS EC2 instance, as a flask server (`flask-server.py`) file
