@@ -1,0 +1,6 @@
+{"total_day_charge_min": 0.0,
+ "total_day_charge_max": 58.96,
+ "number_customer_service_calls_min": 0,
+ "number_customer_service_calls_max": 9,
+ "gb_model_precision": 0.7898,
+ "rf_model_precision": 0.7968}
