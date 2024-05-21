@@ -1,7 +1,7 @@
 import requests
 
 # Specify the URL of your Flask server
-url = 'http://cloudboy:5000/predict'  # Update with your server URL
+url = 'http://cloudboy.eu:5000/predict'  # Update with your server URL
 
 # Load the CSV file
 with open('demo-request.csv', 'rb') as file:
